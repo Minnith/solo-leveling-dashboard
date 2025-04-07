@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "vite-react-typescript-starter",
+=======
+  "name": "solo-leveling-dashboard",
+>>>>>>> 31cc3a549c8b2c6c146dc9abfccda53fa30e6f12
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -30,4 +34,8 @@
     "typescript-eslint": "^8.3.0",
     "vite": "^5.4.2"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 31cc3a549c8b2c6c146dc9abfccda53fa30e6f12

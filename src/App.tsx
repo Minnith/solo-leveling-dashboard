@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useState } from 'react';
 import Dashboard from './components/Dashboard';
 import QuestForm from './components/QuestForm';
@@ -170,6 +171,13 @@ function App() {
       )}
     </>
   );
+=======
+import React from 'react';
+import Dashboard from './components/Dashboard';
+
+function App() {
+  return <Dashboard />;
+>>>>>>> 31cc3a549c8b2c6c146dc9abfccda53fa30e6f12
 }
 
 export default App;
